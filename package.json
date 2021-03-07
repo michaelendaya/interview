@@ -1,0 +1,21 @@
+{
+  "name": "proj",
+  "version": "1.0.0",
+  "private": true,
+  "scripts": {
+    "dev": "nuxt",
+    "build": "nuxt build",
+    "start": "nuxt start",
+    "generate": "nuxt generate"
+  },
+  "dependencies": {
+    "aframe": "^1.2.0",
+    "bootstrap": "^4.5.3",
+    "bootstrap-vue": "^2.21.2",
+    "core-js": "^3.8.2",
+    "nuxt": "^2.14.12",
+    "vue-beautiful-chat": "^2.5.0",
+    "vue-sweetalert2": "^4.2.0"
+  },
+  "devDependencies": {}
+}
